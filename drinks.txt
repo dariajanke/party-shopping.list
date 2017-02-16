@@ -2,3 +2,7 @@ drinks:
 juice
 water
 wine
+rum
+vodka
+tea
+coffee
