@@ -1,1 +1,6 @@
 food
+chips
+burger
+hotdog 
+sushi
+curry
